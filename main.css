@@ -1,0 +1,30 @@
+.wrapper{
+    width: 1200px;
+    height: 600px;
+    margin: 5px;
+    border: 5px solid red;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(201, 53, 53);
+    background-image: url(https://image.api.playstation.com/vulcan/img/rnd/202011/1019/NE94SbwnpBEKaCkdmhLXYl04.jpg);
+    background-size: 1200px 600px;
+}
+#header{
+    text-align: center;
+    color:white;
+}
+#pros{
+    border: 5px solid rgb(201, 53, 53);
+    height: 250px;
+    width: 40%;
+    border-radius: 20px;
+    float: left;
+}
+#cons{
+    
+    color: white;
+    height: 250px;
+    border: 5px solid white;
+    width: 40%;
+    border-radius: 20px;
+    float: right;
+}
